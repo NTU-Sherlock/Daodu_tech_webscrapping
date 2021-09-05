@@ -1,7 +1,6 @@
 # Daodu_tech_webscrapping
 Wep scrapping on Taiwan No.1 tech news website, which is closed on 2021/06/27
-​
-https://www.youtube.com/watch?v=tIxig8k7MVw&ab_channel=NTU-NormalTaskUnions
+
 
 《再見了科技島讀2018-2021》​
 ​
@@ -31,4 +30,7 @@ https://www.youtube.com/watch?v=tIxig8k7MVw&ab_channel=NTU-NormalTaskUnions
 我對周大的寫作邏輯、講故事技巧敬佩而享受，或許我不會成為像周大這樣專業的作家，但期許能定期的「為自己寫作」。​
 ​
 再見了科技島讀。​
+
+
 ​
+https://www.youtube.com/watch?v=tIxig8k7MVw&ab_channel=NTU-NormalTaskUnions
